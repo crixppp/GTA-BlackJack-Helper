@@ -30,5 +30,27 @@ A clean, fast, and mobile-friendly web tool designed to help you win more blackj
 
 No frameworks. No libraries. Lightweight and fast.
 
-## 📁 Project Structure
+## 🚀 Deployment
 
+The site is deployed via GitHub Pages and available at:
+
+📍 [https://crixppp.github.io/GTA-BlackJack-Helper/](https://crixppp.github.io/GTA-BlackJack-Helper/)
+
+To deploy your own fork:
+1. Clone or fork the repo.
+2. Push your changes.
+3. Go to **Settings > Pages** and select the root of the `main` branch.
+
+## 🤝 Contributing
+
+Want to improve the strategy logic or design?
+- Open an issue to discuss major changes.
+- Submit a pull request with enhancements.
+
+## 📄 Licence
+
+This project is licensed under the [MIT Licence](LICENSE).
+
+---
+
+Built to give GTA V blackjack players the upper hand. Good luck at the tables!
